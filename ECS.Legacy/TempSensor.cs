@@ -1,5 +1,5 @@
 ﻿using System;
-
+//
 namespace ECS.Legacy
 {
     internal class TempSensor : ITempSensor
